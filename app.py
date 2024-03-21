@@ -1,5 +1,4 @@
 from flask import Flask
-import logging,ngrok
 
 app = Flask(__name__)
 
